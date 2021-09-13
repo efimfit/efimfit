@@ -9,6 +9,8 @@ hello
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
 
+       
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khouten)](https://github.com/JaeSeoKim/badge42)
 
 
 
