@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I am Efim, a student at the school of programming 21 (École 42 affiliate).
-I am studying the direction of computer graphics and game development.
-I can program in C++ under the Unreal Engine:
+I am Efim, a student at the programming School 21 (École 42 affiliate).
+I am studying the direction of data engineering and backend development.
 
 ## 🛠 Technical Stack
 *   C/C++/Java/Python languages
