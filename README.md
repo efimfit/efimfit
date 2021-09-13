@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 
 I am Efim, a student at the school of programming 21 (42 ecola).
@@ -12,7 +12,7 @@ I can program in C++ under the Unreal Engine:
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   GitHub/GitLab/Gerrit/Bitbucket
 
-##School21 profile
+## School21 profile
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khouten?privacyName=true)](https://42.fr/en/homepage/)
 
 
