@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-
-I am Efim, a student at the school of programming 21 (42 ecola).
+I am Efim, a student at the school of programming 21 (École 42 affiliate).
 I am studying the direction of computer graphics and game development.
 I can program in C++ under the Unreal Engine:
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   C/C++/Java/Python languages
+*   DWH, SQL, Kubernetes, Docker
+*   Git, bash, Unix
+
 
 ## School21 profile
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khouten?privacyName=true)](https://42.fr/en/homepage/)
