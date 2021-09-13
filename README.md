@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Efim, a student at the programming School 21 (École 42 affiliate).
+
 I am studying the direction of data engineering and backend development.
 
 ## 🛠 Technical Stack
