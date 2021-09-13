@@ -1,6 +1,12 @@
 ### Hi there 👋
 hello
-<img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" />
+
+<a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+
+
+
 <!--
 **efimfit/efimfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
