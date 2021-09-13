@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khouten?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khouten?privacyName=true)](https://42.fr/en/homepage/)
 
 
 <p align='center'>
