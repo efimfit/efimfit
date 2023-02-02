@@ -1,16 +1,19 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Efim, a student at the programming School 21 (École 42 affiliate).
+My name is Efim. I'm a flutter developer currently living in Serbia, ex student at the programming School 21 (École 42 affiliate).
 
-I am studying the direction of data engineering and backend development.
-
+Two production RShiny apps for Unilever company written by me.
 ## 🛠 Technical Stack
-*   C/C++/Java/Python languages
-*   DWH, SQL, Kubernetes, Docker
-*   Git, bash, Unix
-
-
-
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>      
+</p>
 
 <p align='center'>
 <a href="https://t.me/efimfit">
