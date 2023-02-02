@@ -2,7 +2,7 @@
 
 My name is Efim. I'm a flutter developer currently living in Serbia, ex student at the programming School 21 (École 42 affiliate).
 
-Two production RShiny apps for Unilever company written by me.
+Two production RShiny apps for Unilever company are written by me.
 ## 🛠 Technical Stack
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
