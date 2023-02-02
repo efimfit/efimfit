@@ -10,8 +10,6 @@ I am studying the direction of data engineering and backend development.
 *   Git, bash, Unix
 
 
-## School21 profile
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khouten?privacyName=true)](https://42.fr/en/homepage/)
 
 
 <p align='center'>
