@@ -23,18 +23,6 @@ Below you can find my foundational computer science and multithreading projects 
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/efim-khorunzhiy/)
 
-## 🛠 Technical Stack
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>      
-</p>
-
 <p align='center'>
 <a href="https://t.me/efimfit">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
