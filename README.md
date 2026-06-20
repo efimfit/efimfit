@@ -1,8 +1,28 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there 👋 I'm Efim
 
-My name is Efim. I'm a flutter developer currently living in Serbia, ex student at the programming School 21 (École 42 affiliate).
+### Lead AI Trainer & Technical LLM Alignment Specialist | Software Engineer
 
-Two production RShiny apps for Unilever company are written by me.
+A tech-literate AI professional with a solid software engineering background rooted in low-level programming and backend/mobile development. Currently specializing in fine-tuning, evaluating, and securing frontier Large Language Models (LLMs).
+
+---
+
+### 💼 Commercial Experience & NDA Note
+Most of my production-grade **Python automation tools**, **LLM alignment workflows (SFT/RLHF)**, and corporate data pipelines were developed inside major tech ecosystems (**Yandex, Unilever**) and are strictly protected by **NDAs**. 
+
+---
+
+### 🛠 Tech Stack & Tools
+* **AI/LLM:** Prompt Engineering, SFT/RLHF Evaluation, AI Safety & Jailbreak Mitigation, Cursor AI.
+* **Languages:** Python, SQL, Dart (Flutter), R, C/C++.
+* **Backend & Data:** REST APIs, GraphQL (basic), MongoDB, Docker, ETL Pipelines.
+
+---
+
+### 🎓 Engineering Foundation
+Below you can find my foundational computer science and multithreading projects from **Ecole 42**, alongside some of my open-source engineering tracks. 
+
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/efim-khorunzhiy/)
+
 ## 🛠 Technical Stack
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
